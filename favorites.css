@@ -1,0 +1,23 @@
+/*
+* Suzanne Melia
+* Due Date 
+* " 
+*/ 
+
+/*The Universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    
+background-color: blueviolet
+    
+}
+
+#myfavoritecity { width: 100px; height: 400px;}
+#rudy { width: 200px; height: 400px;}
+#vacation {width: 200px; height: 400px;}
