@@ -1,7 +1,7 @@
 /*
 * Suzanne Melia
 * Due Date 
-* " 
+* Favorites  
 */ 
 
 /*The Universal selector */
@@ -17,7 +17,6 @@ body {
 background-color: blueviolet
     
 }
-
-#myfavoritecity { width: 100px; height: 400px;}
-#rudy { width: 200px; height: 400px;}
-#vacation {width: 200px; height: 400px;}
+#rudy { width: 400px; height: 200px;}
+#myfavoritecity { width: 400px; height: 300px;}
+#vacation {width: 400px; height: 200px;}
